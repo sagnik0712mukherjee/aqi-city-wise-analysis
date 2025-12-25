@@ -134,10 +134,9 @@ streamlit run streamlit_app.py
 - Smart city air quality monitoring
 - Health-risk advisory systems
 - Environmental research and policy analysis
-- Portfolio-grade AI + ML project
 
 ---
 
-### 👤 Author
+### Author
 **Sagnik Mukherjee**
 - 🔗 GitHub: [sagnik0712mukherjee](https://github.com/sagnik0712mukherjee)
